@@ -8,3 +8,5 @@ public class Classe3 {
 
 	}
 }
+
+//Amico aggiunge questo commento
