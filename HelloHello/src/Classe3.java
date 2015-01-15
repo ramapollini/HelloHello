@@ -8,9 +8,4 @@ public class Classe3 {
 
 }
 
-
-//Amico aggiunge questo commento ciao
-
 //Anche Rama Scrive BAu
-
-//Altra modifica ciao ciao 
