@@ -9,4 +9,4 @@ public class Classe3 {
 	}
 }
 
-//Amico aggiunge questo commento
+//Amico aggiunge questo commento ciao
